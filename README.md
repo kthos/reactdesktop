@@ -3,13 +3,10 @@
 
 ตัวอย่างการติดตั้ง
 
-# cd reactapp
-
-# npm install
-
-# npm start
+cd reactapp
+npm install
+npm start
 
 การ build App
-
-#npm build
+npm build
 
